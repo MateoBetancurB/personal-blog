@@ -176,6 +176,7 @@ nav .profile-link a:hover {
 
 .blogs-news-info-container p {
     margin-bottom: 35px;
+    text-align: justify;
 }
 
 .blogs-posts-container {
@@ -196,6 +197,10 @@ nav .profile-link a:hover {
 
 .blogs-posts-container img {
     border-radius: 10px;
+}
+
+.blogs-posts-container p {
+    text-align: justify;
 }
 
 .blogs-button {
@@ -319,9 +324,19 @@ nav .profile-link a:hover {
     margin-bottom: 50px;
 }
 
+.profile-main-container h2 {
+    margin-top: 0;
+}
+
+.profile-main-container p {
+    max-width: 80%;
+    text-align: justify;
+}
+
 .profile-main-container img {
     width: 320px;
     margin-right: 30px;
+    border-radius: 100%;
 }
 
 .profile-main-container .profile-container {
