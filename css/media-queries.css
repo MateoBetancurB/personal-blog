@@ -27,7 +27,7 @@
         max-width: 95%;
     }
     .footer {
-        margin-top: 5px;
-        margin-bottom: 25px;
+        padding-top: 5px;
+        padding-bottom: 25px;
     }
 }
