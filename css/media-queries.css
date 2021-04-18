@@ -26,4 +26,8 @@
     .blogs-posts-container .post-container {
         max-width: 95%;
     }
+    .footer {
+        margin-top: 5px;
+        margin-bottom: 25px;
+    }
 }
